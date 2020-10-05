@@ -1,0 +1,70 @@
+@font-face {
+  font-family: braveregular;
+  src: url("fonts/BRAVEEightyone-Regular.woff");
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  font-family: "braveregular", sans-serif;
+  letter-spacing: 3px;
+  color: #40b9fa;
+}
+h2 {
+  font-family: "braveregular", sans-serif;
+  letter-spacing: 2px;
+  color: #103043;
+}
+
+h3 {
+  color: #103043;
+}
+
+h5 {
+  color: #103043;
+}
+
+.role {
+  color: #f8f8f8;
+}
+
+.section-desc {
+  color: #3dabc7;
+}
+
+.tech-icons {
+  height: 100px;
+  text-align: center;
+}
+
+#projects {
+  background-color: #103043;
+}
+
+#projects h2 {
+  color: #f8f8f8;
+}
+
+.project h2 {
+  color: #103043;
+}
+
+p {
+  color: #3dabc7;
+}
+
+i {
+  color: #3dabc7;
+}
+
+#footer {
+  background-color: #3dabc7;
+}
+
+i {
+  color: #f8f8f8;
+}
